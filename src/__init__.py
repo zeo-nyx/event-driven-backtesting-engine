@@ -9,4 +9,5 @@ __all__ = [
     "execution",
     "performance",
     "backtest",
+    "realtime",
 ]
